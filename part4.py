@@ -18,4 +18,4 @@ The area of the triangle is 12.0
 n = int(input("what is your base? "))
 n = n / 2
 x = int(input("what is your height? "))
-print(n * x)
+print(n * x) 
